@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "D:\\KONSTRUKSIPL\\tpModul5_103082400036\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{FD6E6E13-1483-4908-9149-F0D69B35F4CB}|tpModul5_103082400036\\tpModul5_103082400036.csproj|d:\\konstruksipl\\tpmodul5_103082400036\\tpmodul5_103082400036\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FD6E6E13-1483-4908-9149-F0D69B35F4CB}|tpModul5_103082400036\\tpModul5_103082400036.csproj|solutionrelative:tpmodul5_103082400036\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{BBD5C211-9D8B-7D1B-BB21-361AC548926A}|tpModul5_103082400036\\tpModul5_103082400036.csproj|d:\\konstruksipl\\tpmodul5_103082400036\\tpmodul5_103082400036\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBD5C211-9D8B-7D1B-BB21-361AC548926A}|tpModul5_103082400036\\tpModul5_103082400036.csproj|solutionrelative:tpmodul5_103082400036\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -28,7 +28,7 @@
               "RelativeDocumentMoniker": "tpModul5_103082400036\\Program.cs",
               "ToolTip": "D:\\KONSTRUKSIPL\\tpModul5_103082400036\\tpModul5_103082400036\\Program.cs",
               "RelativeToolTip": "tpModul5_103082400036\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-29T15:56:30.732Z",
               "EditorCaption": ""
